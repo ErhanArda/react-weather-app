@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Istanbul",
+        "location_type": "City",
+        "woeid": 2347289,
+        "latt_long": "41.015137, 28.979530"
+    },
+    {
+        "title": "Stockholm",
+        "location_type": "City",
+        "woeid": 906057,
+        "latt_long": "59.332169,18.062429"
+    }
+]
